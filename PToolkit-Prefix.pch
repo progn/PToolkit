@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PToolkit' target in the 'PToolkit' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
